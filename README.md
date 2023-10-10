@@ -27,6 +27,8 @@ java App
 The program asks the user to input a number, and then prompts the user to choose a matrix size. The program generates a matrix of the chosen size and fills each cell with the corresponding prime number. The program uses the Sieve of Eratosthenes algorithm to identify prime numbers.
 
 Each prime number in the matrix is represented by a yellow star.
+![Prime-Matrix-Program](https://github.com/pureAliNajafi/Prime-Matrix-Program/assets/147445558/f0280d45-b053-48d0-a158-865bda35ce77)
+
 
 ## License
 
